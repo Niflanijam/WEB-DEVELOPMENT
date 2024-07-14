@@ -1,0 +1,62 @@
+
+body{
+    background-image: url("./deep-blue-background.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+th,td{
+    color: aliceblue;
+    padding-left: 25px;
+    
+}
+
+caption{
+    margin-bottom: 20px;
+    text-align: center;
+
+    color: aliceblue;
+}
+
+
+.F1{
+
+    border: 1px solid rgba(0, 0, 255, 0);
+    border-radius: 3px;
+   
+    text-align: center;
+    margin-top: 100px;
+    font-size: larger;
+    padding: 30px;
+    width: 400px;
+    margin-left:500px ;
+    align-items: center;
+    background: rgba(55, 6, 82, 0.808);
+  
+
+
+}
+
+.button{
+    cursor: pointer;
+}
+input{
+    width: 100%;
+    padding: 5px;
+    margin-top: 10PX;
+    margin-bottom: 10PX;
+}
+h2{
+    color: rgb(201, 141, 236);
+}
+label{
+    color: aliceblue;
+    text-align: right;
+    
+}
+::placeholder{
+    color: rgb(0, 0, 1);
+}
+.container{
+    align-items: center;
+
+}
