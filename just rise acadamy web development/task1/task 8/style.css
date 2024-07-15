@@ -1,0 +1,34 @@
+.arrow {
+    padding-left: 50px;
+
+}
+
+.arrow li {
+    list-style-image: url(icon.png);
+
+
+}
+
+.flexbox {
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flexbox>div {
+    background-color: aquamarine;
+    margin: 10px;
+    height: 80px;
+    width: 100px;
+    line-height: 50px;
+    text-align: center;
+    font-size: larger;
+    border-color: rgb(20, 182, 128);
+}
+
+.li1 {
+    background-color: rgb(39, 185, 178);
+    align-items: center;
+    padding: 3px;
+    margin-bottom: 8px;
+}
