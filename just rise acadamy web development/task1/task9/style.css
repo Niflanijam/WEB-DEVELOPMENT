@@ -1,0 +1,39 @@
+
+    div .container{
+        width: 100%;
+        border: 1px solid gray;
+    }
+    header,footer{
+        padding: 1em;
+        color: azure;
+        background-color: rgb(241, 159, 101);
+        clear: left;
+        text-align: center;
+    }
+    nav{
+        float: left;
+        max-width: 160px;
+        margin: 0;
+        padding: 1em;
+
+    }
+    nav ul{
+        list-style-type: none;
+        padding: 0px;
+    }
+    nav ul li{
+        padding-bottom: 20px;
+    }
+    nav ul a{
+        text-decoration: none;
+    }
+    article{
+        margin-left: 170px;
+        border: 1px solid gray;
+        padding: 1em;
+        overflow: hidden;
+    }
+    footer{
+        bottom: 0;
+      
+    }
